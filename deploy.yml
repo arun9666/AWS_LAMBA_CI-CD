@@ -90,7 +90,7 @@ jobs:
               exit 1
             else
               echo "Update in progress, waiting..."
-              sleep 6
+              sleep 5
             fi
           done
 
